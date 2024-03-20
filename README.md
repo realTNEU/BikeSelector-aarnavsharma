@@ -1,6 +1,6 @@
 # BikeSelector: by Aarnav Sharma
 
-Stuck in cycling limbo? We can help! Explore a vast selection of bikes for every rider at [Site Name]. Filter by style (mountain, road, etc.), features (gears, suspension), and budget to find your perfect match. Unsure? Take our quick quiz or browse our guides. Ride happy with high-quality bikes, detailed specs, and secure online shopping.  
+Stuck in cycling limbo? We can help! Explore a vast selection of bikes for every rider at BikeSelector. Filter by style (mountain, road, etc.), features (gears, suspension), and budget to find your perfect match. Unsure? Take our quick quiz or browse our guides. Ride happy with high-quality bikes, detailed specs, and secure online shopping.  
 
  # Features Of BikeHunter
 
