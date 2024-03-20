@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+   <head>
+      <meta charset="utf-8">
+      <title>BikeHunter | Contact</title>
+      <link rel="stylesheet" href="..//css/style.css">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+      <link rel="stylesheet" href="..//css/contact.css">
+   </head>
+   <nav class="nav">
+    <input type="checkbox" id="nav-check">
+    <div class="nav-header">
+      <div class="nav-title">
+        BikeHunter
+      </div>
+    </div>
+    <div class="nav-btn">
+      <label for="nav-check">
+        <span></span>
+        <span></span>
+        <span></span>
+      </label>
+    </div>
+    
+    <ul class="nav-list">
+      <li><a href="..//index.html">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="contact.html">Contact</a></li>
+      <li><a href="login.html">Login</a></li>
+
+
+    </ul>
+  </nav>
+
+  <section class="contact-us">
+    <form action="" class="contact-form">
+      <h1 id="contact-title">Contact Us</h1>
+      <label for="name">Full Name</label>
+      <input type="text" id="name" required>
+      <br>
+      <label for="email">Email</label>
+      <input type="email" id="email" required>
+      <br>
+      <label for="message">Message</label>
+      <textarea id="message" placeholder="" required></textarea>
+      <button type="submit" onclick="contactSubmit()">Submit</button>
+    </form>
+  </section>
+  <script src="..//js/app.js"></script>
+</body>
+</html>
